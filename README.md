@@ -8,6 +8,6 @@ We hope you enjoy using this plugin!
 
 creators:
 @dawanjiali
-@wmarshid
+@mention wmarshid
 
 ![A screenshot of your package](https://github.com/dawanjiali/extended-word-count/blob/master/screenshot.png?raw=true)
