@@ -1,0 +1,18 @@
+{
+  "name": "extended-word-count",
+  "main": "./lib/extended-word-count",
+  "version": "0.0.0",
+  "description": "An extended version of Word count package to display number of words, characters, and lines of code",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": ["extended-word-count:toggle","extended-word-count:highlightedToggle"]
+  },
+  "repository": "https://github.com/atom/extended-word-count",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

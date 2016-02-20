@@ -1,0 +1,26 @@
+# See https://atom.io/docs/latest/hacking-atom-package-word-count#menus for more details
+'context-menu':
+  'atom-text-editor': [
+    {
+      'label': 'Count highlighted code'
+      'command': 'extended-word-count:highlightedToggle'
+    }
+  ]
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'Extended Word Count'
+      'submenu': [
+        {
+          'label': 'Toggle'
+          'command': 'extended-word-count:toggle'
+        }
+        {
+          'label': 'Highlighted word count'
+          'command': 'extended-word-count:highlightedToggle'
+        }
+      ]
+    ]
+  }
+]
