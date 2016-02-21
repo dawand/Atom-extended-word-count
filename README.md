@@ -1,7 +1,7 @@
-# extended-word-count package
+# extended word count - Atom package
 
 This package is to aid developers while coding to understand the files they are working on.
-Displays the number words, characters and lines of code in a modal view that can be toggled using the Packages menu or shortcut keys.
+It displays the number of words, characters and lines of code in a modal view that can be toggled using the Packages menu or shortcut keys (Alt+Ctrl+w).
 The highlighted text can also be examined instead using its own shortcut key.
 
 We hope you enjoy using this plugin!
